@@ -121,7 +121,7 @@ CNN 모델은 다양한 입력 방식에서도 동일한 구조를 사용할 수
 
 ---
 
-# 🏆 성과
+# 성과
 
 ### UNLV Summer Research Program 수료
 
