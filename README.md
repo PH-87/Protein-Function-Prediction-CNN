@@ -15,7 +15,7 @@
 |항목|내용|
 |---|---|
 |프로젝트|Protein Function Prediction|
-|기간|2025.06 ~ 2025.07|
+|기간|2025.06.22 ~ 2025.07.21 |
 |프로그램|UNLV Summer Research Program|
 |Framework|PyTorch|
 |환경|Google Colab|
