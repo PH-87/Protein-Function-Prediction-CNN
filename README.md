@@ -1,5 +1,5 @@
 # CNN-based protein function prediction research from the UNLV Summer Research Program.
-
+!네바다주립대_발표자료_강지희, 김소영, 박주은, 이민재, 장평화.png
 ## Overview
 This project was conducted during the UNLV Summer Research Program.
 The objective was to investigate how different protein sequence encoding methods affect enzyme function prediction using CNN and Transformer models.
