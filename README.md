@@ -118,3 +118,25 @@ CNN 모델은 다양한 입력 방식에서도 동일한 구조를 사용할 수
 또한 논문의 결과를 단순히 재현하는 것이 아니라 다양한 실험을 설계하고 검증하는 과정을 경험하며 AI 연구의 전반적인 프로세스를 이해할 수 있었습니다.
 
 실험 결과를 영어로 발표하고 보고서를 작성하며 연구 프로젝트 수행 경험도 함께 쌓을 수 있었습니다.
+
+---
+
+# 🏆 성과
+
+### UNLV Summer Research Program 수료
+
+본 프로젝트는 미국 University of Nevada, Las Vegas(UNLV) Summer Research Program에서 수행한 연구 프로젝트입니다.
+
+<p align="center">
+  <img src="images/unlv_certificate.png" width="700">
+</p>
+
+---
+
+### 우수 성적 수상
+
+프로젝트 결과와 연구 성과를 인정받아 빅데이터 혁신융합대학 해외 연구 프로그램 우수상을 수상하였습니다.
+
+<p align="center">
+  <img src="images/award.png" width="500">
+</p>
